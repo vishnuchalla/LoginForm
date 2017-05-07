@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/LoginForm/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/vishnu/.android/build-cache/7b9bf2c20eaa8904c7c9a7b6beddfa0f95bde99e/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/LoginForm/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/vishnu/.android/build-cache/7b9bf2c20eaa8904c7c9a7b6beddfa0f95bde99e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/LoginForm/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/vishnu/.android/build-cache/7b9bf2c20eaa8904c7c9a7b6beddfa0f95bde99e/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/LoginForm/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/vishnu/.android/build-cache/7b9bf2c20eaa8904c7c9a7b6beddfa0f95bde99e/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

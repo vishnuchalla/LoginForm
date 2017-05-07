@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login Form</string>
+    <string name="t1">Name</string>
+    <string name="t2">E-mail</string>
+    <string name="t3">Phone</string>
+    <string name="text">Login Information</string>
+    <string name="t6">Male</string>
+    <string name="t7">Female</string>
+    <string name="btn">Login</string>
+    <string name="t8">
+        \nIf Gender Is Male\n\nIf Gender is Female
+    </string>
+</resources>

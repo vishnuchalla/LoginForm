@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/LoginForm/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vishnu/.android/build-cache/7b9bf2c20eaa8904c7c9a7b6beddfa0f95bde99e/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/LoginForm/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vishnu/.android/build-cache/7b9bf2c20eaa8904c7c9a7b6beddfa0f95bde99e/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

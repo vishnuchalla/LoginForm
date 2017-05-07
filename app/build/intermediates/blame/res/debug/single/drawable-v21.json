@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/LoginForm/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/vishnu/.android/build-cache/7b9bf2c20eaa8904c7c9a7b6beddfa0f95bde99e/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/LoginForm/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/vishnu/.android/build-cache/7b9bf2c20eaa8904c7c9a7b6beddfa0f95bde99e/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/LoginForm/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/vishnu/.android/build-cache/7b9bf2c20eaa8904c7c9a7b6beddfa0f95bde99e/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/vishnu/Cse/Projects/Android/LoginForm/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/vishnu/.android/build-cache/7b9bf2c20eaa8904c7c9a7b6beddfa0f95bde99e/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]
